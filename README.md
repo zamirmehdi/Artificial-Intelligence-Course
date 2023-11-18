@@ -17,9 +17,9 @@
   <ol>
     <li><a href="#projects-overview">Projects Overview</a>
       <ul>
-        <li><a href="#1-basic-biology-theoretical">1. Basic Biology</a></li>
-        <li><a href="#2-pairwise-sequence-alignment-programmingtheoretical">2. Pairwise Sequence Alignment</a></li>
-        <li><a href="#3-multiple-sequence-alignment---db-search-programmingtheoretical">3. Multiple Sequence Alignment - DB Search</a></li>
+        <li><a href="#-1-students-lineup-">1. Students Lineup</a></li>
+        <li><a href="#-2-super-mario-">2. Super Mario</a></li>
+        <li><a href="#-3-nlp-n-gram-">3. NLP n-gram</a></li>
       </ul>
     </li>
     <li><a href="#course-information">Course Information</a></li>
