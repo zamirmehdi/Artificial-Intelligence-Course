@@ -1,7 +1,7 @@
 <!-- PROJECT INFO -->
 <br/>
 <div align="center">
-  <h2 align="center">Artificial Intelligence</h2>
+  <h1 align="center">Artificial Intelligence</h1>
   
   <p align="left">
     This repository contains 3 different projects completed during my undergraduate Artificial Intelligence course.
@@ -39,9 +39,11 @@ All projects are accompanied by their respective codes, necessary datasets (if r
 Implemented DFS and Bidirectional search algorithms to effectively line-up the students of a school.
 
 <h3> 2. Super Mario </h3>
+
 Developed a simple game to find the food and avoid obstacles in a m ́n plane using LRTA* algorithm.
 
 <h3> 3. NLP n-gram </h3>
+
 Developed a trigram NLP model to predict and complete sentences within a text.
 
 
