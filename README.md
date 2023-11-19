@@ -4,7 +4,7 @@
   <h1 align="center">Artificial Intelligence</h1>
   
   <p align="left">
-    This repository contains 3 different projects completed during my undergraduate Artificial Intelligence course.
+    This repository contains <strong>3 different projects</strong> completed during my undergraduate Artificial Intelligence course.
     <br/>
   </p>
   
