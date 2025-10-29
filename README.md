@@ -19,6 +19,13 @@
 
 A collection of **3 projects** implementing core Artificial Intelligence algorithms and techniques. Projects range from classical search algorithms (DFS, Bidirectional Search) to heuristic search (LRTA*) and Natural Language Processing (Trigram Model).
 
+| Project | Description | Technologies |
+|----------|--------------|--------------|
+| [Students-Lineup-Search-Project](https://github.com/zamirmehdi/Artificial-Intelligence-Course/tree/main/Students-Lineup-Search-Project) | Solves the student lineup optimization problem using Depth-First Search (DFS) and Bidirectional Search. Demonstrates classical graph-based search and constraint satisfaction in Java. | Java |
+| [AI-Super-Mario-LRTAStar-Pathfinding](https://github.com/zamirmehdi/AI-Super-Mario-LRTAStar-Pathfinding) | A grid-based pathfinding simulation where an agent (Mario) navigates toward goals using the LRTA* (Learning Real-Time A*) algorithm. Implements heuristic search and real-time learning. | Python |
+| [AI-NLP-NGram](https://github.com/zamirmehdi/AI-NLP-NGram) | A statistical Persian language model based on n-grams (trigrams) for text prediction and sentence completion. Implements text preprocessing, probability estimation, and model evaluation. | Python |
+
+
 **Key Topics:**
 - Search Algorithms (DFS, Bidirectional Search)
 - Heuristic Search (LRTA*)
