@@ -5,7 +5,24 @@ Implementation of classical search algorithms to solve the student lineup optimi
 [![Java](https://img.shields.io/badge/Java-8+-orange.svg)](https://www.java.com/)
 [![AI](https://img.shields.io/badge/AI-Search%20Algorithms-blue.svg)](#)
 
-## 📋 Problem Description
+<details> <summary><h2>📚 Table of Contents</h2></summary>
+
+- [Project Overview](#-project-overview)
+- [Implemented Algorithms](#-implemented-algorithms)
+  - [1. Depth-First Search (DFS)](#1-depth-first-search-dfs)
+  - [2. Bidirectional Search](#2-bidirectional-search)
+- [Project Structure](#️-project-structure)
+- [Requirements](#️-requirements)
+- [How to Run](#-how-to-run)
+- [Input/Output](#-inputoutput)
+- [Key Concepts Demonstrated](#-key-concepts-demonstrated)
+- [Documentation](#-documentation)
+- [Project Information](#ℹ️-project-information)
+- [Related Projects](#-related-projects)
+- [Contact](#-contact)
+</details>
+
+## 📋 Project Overview
 
 The goal is to arrange students in an optimal lineup order based on specific constraints and relationships. This problem demonstrates the application of graph search algorithms to solve constraint satisfaction problems.
 
