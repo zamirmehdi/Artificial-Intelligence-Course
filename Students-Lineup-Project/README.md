@@ -1,6 +1,6 @@
 # Students Lineup Problem - Search Algorithms
 
-Implementation of classical search algorithms to solve the student lineup optimization problem.
+Implementation of classical search algorithms to solve the student lineup optimization problem. (This project is also a part of the [Artificial Intelligence Course](https://github.com/zamirmehdi/Artificial-Intelligence-Course) repository.)
 
 [![Java](https://img.shields.io/badge/Java-8+-orange.svg)](https://www.java.com/)
 [![AI](https://img.shields.io/badge/AI-Search%20Algorithms-blue.svg)](#)
@@ -129,6 +129,13 @@ java Problem3Bidirectional
 Detailed problem specification and requirements are available in:
 - `docs/Instruction.pdf` (in Persian)
 
+## ℹ️ Project Information
+
+**Author:** Amirmehdi Zarrinnezhad  
+**Course:** Artificial Intelligence  
+**University:** Amirkabir University of Technology (Tehran Polytechnic) - Spring 2020  
+**GitHub:** [Students-Lineup-Project](https://github.com/zamirmehdi/Artificial-Intelligence-Course/tree/main/Students-Lineup-Project)
+
 ## 🔗 Related Projects
 
 This project is part of the [Artificial Intelligence Course](https://github.com/zamirmehdi/Artificial-Intelligence-Course) repository.
@@ -137,22 +144,25 @@ This project is part of the [Artificial Intelligence Course](https://github.com/
 - [Super Mario LRTA*](https://github.com/zamirmehdi/AI-Project-Super-Mario) - Heuristic pathfinding
 - [NLP Trigram Model](https://github.com/zamirmehdi/AI_Final_Project-NLP) - Natural language processing
 
-## 📧 Contact
+## 📧 Contact  
+Questions or collaborations? Feel free to reach out!
 
-**Author:** Amirmehdi Zarrinnezhad  
-**Email:** amzarrinnezhad@gmail.com  
-**GitHub:** [@zamirmehdi](https://github.com/zamirmehdi)
-
----
-
-**Course:** Artificial Intelligence  
-**University:** Amirkabir University of Technology (Tehran Polytechnic)  
-**Semester:** Spring 2020
+**📧 Email:** amzarrinnezhad@gmail.com  
+**🌐 GitHub:** [@zamirmehdi](https://github.com/zamirmehdi)
 
 ---
 
 <div align="center">
 
-[⬆ Back to Main Repository](../../)
+[⬆ Back to Main Repository](https://github.com/zamirmehdi/Artificial-Intelligence-Course)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+</div>
+
+<div align="center">
+
+⭐ **If you found this project helpful, please consider giving it a star!** ⭐
+
+*Amirmehdi Zarrinnezhad*
 
 </div>
