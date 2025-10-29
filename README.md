@@ -222,8 +222,8 @@ python main.py
 ### Project Repositories
 
 This repository contains Git submodules linking to detailed project repositories:
-- **Super Mario LRTA*:** [AI-Project-Super-Mario](https://github.com/zamirmehdi/AI-Project-Super-Mario)
-- **NLP Trigram Model:** [AI_Final_Project-NLP](https://github.com/zamirmehdi/AI_Final_Project-NLP)
+- **Super Mario LRTA*:** [AI-Super-Mario-Pathfinding-Project](https://github.com/zamirmehdi/AI-Super-Mario-LRTAStar-Pathfinding)
+- **NLP Trigram Model:** [AI-NLP-Ngram-Project](https://github.com/zamirmehdi/AI-NLP-Ngram)
 
 ## 📧 Contact
 
