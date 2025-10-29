@@ -1,6 +1,7 @@
 [submodule "AI-NLP-NGram"]
     path = AI-NLP-NGram
     url = https://github.com/zamirmehdi/AI-NLP-NGram.git
+
 [submodule "AI-Super-Mario-LRTAStar-Pathfinding"]
     path = AI-Super-Mario-LRTAStar-Pathfinding
     url = https://github.com/zamirmehdi/AI-Super-Mario-LRTAStar-Pathfinding.git
